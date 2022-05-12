@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.genruntimeconfig.cache

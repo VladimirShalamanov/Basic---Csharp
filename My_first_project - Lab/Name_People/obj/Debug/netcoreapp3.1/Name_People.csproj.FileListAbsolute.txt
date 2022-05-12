@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\bin\Debug\netcoreapp3.1\Name_People.exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\bin\Debug\netcoreapp3.1\Name_People.deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\bin\Debug\netcoreapp3.1\Name_People.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\bin\Debug\netcoreapp3.1\Name_People.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\bin\Debug\netcoreapp3.1\Name_People.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\bin\Debug\netcoreapp3.1\Name_People.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\obj\Debug\netcoreapp3.1\Name_People.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\obj\Debug\netcoreapp3.1\Name_People.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\obj\Debug\netcoreapp3.1\Name_People.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\obj\Debug\netcoreapp3.1\Name_People.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\obj\Debug\netcoreapp3.1\Name_People.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\obj\Debug\netcoreapp3.1\Name_People.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\obj\Debug\netcoreapp3.1\Name_People.genruntimeconfig.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Name_People\obj\Debug\netcoreapp3.1\Name_People.csproj.AssemblyReference.cache
