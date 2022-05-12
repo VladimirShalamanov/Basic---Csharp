@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\obj\Debug\netcoreapp3.1\Text_And_Numbers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\obj\Debug\netcoreapp3.1\Text_And_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\obj\Debug\netcoreapp3.1\Text_And_Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\obj\Debug\netcoreapp3.1\Text_And_Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\obj\Debug\netcoreapp3.1\Text_And_Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\bin\Debug\netcoreapp3.1\Text_And_Numbers.exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\bin\Debug\netcoreapp3.1\Text_And_Numbers.deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\bin\Debug\netcoreapp3.1\Text_And_Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\bin\Debug\netcoreapp3.1\Text_And_Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\bin\Debug\netcoreapp3.1\Text_And_Numbers.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\bin\Debug\netcoreapp3.1\Text_And_Numbers.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\obj\Debug\netcoreapp3.1\Text_And_Numbers.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\obj\Debug\netcoreapp3.1\Text_And_Numbers.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Text_And_Numbers\obj\Debug\netcoreapp3.1\Text_And_Numbers.genruntimeconfig.cache

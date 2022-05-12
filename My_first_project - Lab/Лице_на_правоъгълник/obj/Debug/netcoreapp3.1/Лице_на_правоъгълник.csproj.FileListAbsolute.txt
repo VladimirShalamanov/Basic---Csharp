@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\Лице_на_правоъгълник.exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\Лице_на_правоъгълник.deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\Лице_на_правоъгълник.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\Лице_на_правоъгълник.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\Лице_на_правоъгълник.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\Лице_на_правоъгълник.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\Лице_на_правоъгълник.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\Лице_на_правоъгълник.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\Лице_на_правоъгълник.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\Лице_на_правоъгълник.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\Лице_на_правоъгълник.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\Лице_на_правоъгълник.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\Лице_на_правоъгълник.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\Лице_на_правоъгълник.genruntimeconfig.cache

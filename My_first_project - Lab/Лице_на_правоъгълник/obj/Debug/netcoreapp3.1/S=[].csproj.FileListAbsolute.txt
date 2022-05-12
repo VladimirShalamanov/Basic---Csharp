@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\S=[].exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\S=[].deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\S=[].runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\S=[].runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\S=[].dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\bin\Debug\netcoreapp3.1\S=[].pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\S=[].csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\S=[].GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\S=[].AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\S=[].AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\S=[].csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\S=[].dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\S=[].pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Лице_на_правоъгълник\obj\Debug\netcoreapp3.1\S=[].genruntimeconfig.cache

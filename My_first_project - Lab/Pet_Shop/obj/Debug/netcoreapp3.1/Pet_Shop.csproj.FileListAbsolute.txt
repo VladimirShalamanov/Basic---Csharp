@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\bin\Debug\netcoreapp3.1\Pet_Shop.exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\bin\Debug\netcoreapp3.1\Pet_Shop.deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\bin\Debug\netcoreapp3.1\Pet_Shop.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\bin\Debug\netcoreapp3.1\Pet_Shop.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\bin\Debug\netcoreapp3.1\Pet_Shop.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\bin\Debug\netcoreapp3.1\Pet_Shop.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\obj\Debug\netcoreapp3.1\Pet_Shop.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\obj\Debug\netcoreapp3.1\Pet_Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\obj\Debug\netcoreapp3.1\Pet_Shop.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\obj\Debug\netcoreapp3.1\Pet_Shop.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\obj\Debug\netcoreapp3.1\Pet_Shop.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\obj\Debug\netcoreapp3.1\Pet_Shop.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\obj\Debug\netcoreapp3.1\Pet_Shop.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Pet_Shop\obj\Debug\netcoreapp3.1\Pet_Shop.genruntimeconfig.cache
