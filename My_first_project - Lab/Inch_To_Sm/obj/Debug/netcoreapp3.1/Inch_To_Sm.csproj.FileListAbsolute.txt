@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\bin\Debug\netcoreapp3.1\Inch_To_Sm.exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\bin\Debug\netcoreapp3.1\Inch_To_Sm.deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\bin\Debug\netcoreapp3.1\Inch_To_Sm.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\bin\Debug\netcoreapp3.1\Inch_To_Sm.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\bin\Debug\netcoreapp3.1\Inch_To_Sm.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\bin\Debug\netcoreapp3.1\Inch_To_Sm.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\obj\Debug\netcoreapp3.1\Inch_To_Sm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\obj\Debug\netcoreapp3.1\Inch_To_Sm.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\obj\Debug\netcoreapp3.1\Inch_To_Sm.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\obj\Debug\netcoreapp3.1\Inch_To_Sm.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\obj\Debug\netcoreapp3.1\Inch_To_Sm.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\obj\Debug\netcoreapp3.1\Inch_To_Sm.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Inch_To_Sm\obj\Debug\netcoreapp3.1\Inch_To_Sm.genruntimeconfig.cache

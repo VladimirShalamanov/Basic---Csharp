@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\bin\Debug\netcoreapp3.1\Greening.exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\bin\Debug\netcoreapp3.1\Greening.deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\bin\Debug\netcoreapp3.1\Greening.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\bin\Debug\netcoreapp3.1\Greening.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\bin\Debug\netcoreapp3.1\Greening.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\bin\Debug\netcoreapp3.1\Greening.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\obj\Debug\netcoreapp3.1\Greening.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\obj\Debug\netcoreapp3.1\Greening.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\obj\Debug\netcoreapp3.1\Greening.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\obj\Debug\netcoreapp3.1\Greening.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\obj\Debug\netcoreapp3.1\Greening.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\obj\Debug\netcoreapp3.1\Greening.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\obj\Debug\netcoreapp3.1\Greening.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Greening\obj\Debug\netcoreapp3.1\Greening.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\bin\Debug\netcoreapp3.1\George_Project.exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\bin\Debug\netcoreapp3.1\George_Project.deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\bin\Debug\netcoreapp3.1\George_Project.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\bin\Debug\netcoreapp3.1\George_Project.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\bin\Debug\netcoreapp3.1\George_Project.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\bin\Debug\netcoreapp3.1\George_Project.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\obj\Debug\netcoreapp3.1\George_Project.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\obj\Debug\netcoreapp3.1\George_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\obj\Debug\netcoreapp3.1\George_Project.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\obj\Debug\netcoreapp3.1\George_Project.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\obj\Debug\netcoreapp3.1\George_Project.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\obj\Debug\netcoreapp3.1\George_Project.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\obj\Debug\netcoreapp3.1\George_Project.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\George_Project\obj\Debug\netcoreapp3.1\George_Project.genruntimeconfig.cache

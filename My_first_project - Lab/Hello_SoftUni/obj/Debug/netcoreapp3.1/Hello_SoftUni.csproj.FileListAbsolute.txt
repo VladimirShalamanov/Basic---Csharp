@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\bin\Debug\netcoreapp3.1\Hello_SoftUni.exe
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\bin\Debug\netcoreapp3.1\Hello_SoftUni.deps.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\bin\Debug\netcoreapp3.1\Hello_SoftUni.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\bin\Debug\netcoreapp3.1\Hello_SoftUni.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\bin\Debug\netcoreapp3.1\Hello_SoftUni.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\bin\Debug\netcoreapp3.1\Hello_SoftUni.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\obj\Debug\netcoreapp3.1\Hello_SoftUni.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\obj\Debug\netcoreapp3.1\Hello_SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\obj\Debug\netcoreapp3.1\Hello_SoftUni.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\obj\Debug\netcoreapp3.1\Hello_SoftUni.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\obj\Debug\netcoreapp3.1\Hello_SoftUni.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\obj\Debug\netcoreapp3.1\Hello_SoftUni.dll
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\obj\Debug\netcoreapp3.1\Hello_SoftUni.pdb
+D:\Документи\twa onowa\_SoftUni\My_first_project\Hello_SoftUni\obj\Debug\netcoreapp3.1\Hello_SoftUni.genruntimeconfig.cache

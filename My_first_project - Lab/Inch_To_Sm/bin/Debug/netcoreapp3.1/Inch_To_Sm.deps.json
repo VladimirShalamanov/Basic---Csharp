@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inch_To_Sm/1.0.0": {
+        "runtime": {
+          "Inch_To_Sm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inch_To_Sm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
