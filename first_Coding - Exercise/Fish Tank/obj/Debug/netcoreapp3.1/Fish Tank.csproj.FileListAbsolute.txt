@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.exe
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.deps.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.exe
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.deps.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\bin\Debug\netcoreapp3.1\Books List.exe
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\bin\Debug\netcoreapp3.1\Books List.deps.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\bin\Debug\netcoreapp3.1\Books List.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\bin\Debug\netcoreapp3.1\Books List.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\bin\Debug\netcoreapp3.1\Books List.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\bin\Debug\netcoreapp3.1\Books List.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\obj\Debug\netcoreapp3.1\Books List.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\obj\Debug\netcoreapp3.1\Books List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\obj\Debug\netcoreapp3.1\Books List.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\obj\Debug\netcoreapp3.1\Books List.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\obj\Debug\netcoreapp3.1\Books List.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\obj\Debug\netcoreapp3.1\Books List.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\obj\Debug\netcoreapp3.1\Books List.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Books List\obj\Debug\netcoreapp3.1\Books List.genruntimeconfig.cache

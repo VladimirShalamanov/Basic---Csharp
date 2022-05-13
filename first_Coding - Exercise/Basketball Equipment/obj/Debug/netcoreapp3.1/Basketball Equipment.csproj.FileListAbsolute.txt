@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.exe
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.deps.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\bin\Debug\netcoreapp3.1\Basketball Equipment.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Basketball Equipment\obj\Debug\netcoreapp3.1\Basketball Equipment.genruntimeconfig.cache
