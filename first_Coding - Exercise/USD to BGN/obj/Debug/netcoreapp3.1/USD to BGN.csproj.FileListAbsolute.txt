@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.exe
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.deps.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.genruntimeconfig.cache

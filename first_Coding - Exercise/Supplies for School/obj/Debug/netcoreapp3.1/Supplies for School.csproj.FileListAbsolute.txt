@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.exe
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.deps.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.genruntimeconfig.cache
