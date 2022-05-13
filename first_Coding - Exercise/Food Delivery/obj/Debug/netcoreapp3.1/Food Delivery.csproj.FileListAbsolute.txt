@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.exe
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.deps.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.dll
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.pdb
+D:\Документи\twa onowa\_SoftUni\2 exercise homework\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.genruntimeconfig.cache
