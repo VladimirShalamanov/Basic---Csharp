@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.exe
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.deps.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\03. Celsius to Fahrenheit.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.exe
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.deps.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.genruntimeconfig.cache

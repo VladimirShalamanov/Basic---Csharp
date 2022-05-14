@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.exe
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.deps.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.genruntimeconfig.cache

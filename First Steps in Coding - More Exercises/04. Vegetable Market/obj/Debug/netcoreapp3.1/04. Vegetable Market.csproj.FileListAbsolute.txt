@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.exe
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.deps.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.genruntimeconfig.cache
