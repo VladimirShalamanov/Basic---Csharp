@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.exe
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.deps.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.exe
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.deps.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.genruntimeconfig.cache

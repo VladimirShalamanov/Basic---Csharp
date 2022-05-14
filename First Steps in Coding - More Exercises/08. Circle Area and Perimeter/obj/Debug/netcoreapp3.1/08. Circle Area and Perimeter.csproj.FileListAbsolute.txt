@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.exe
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.deps.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.exe
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.deps.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.dll
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.pdb
+D:\Документи\twa onowa\_SoftUni\First Steps in Coding - More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.genruntimeconfig.cache
