@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.exe
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.deps.json
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.dll
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.pdb
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.dll
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.pdb
+D:\Документи\twa onowa\_SoftUni\Проверки\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.genruntimeconfig.cache
