@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.exe
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.deps.json
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.dll
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.pdb
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.dll
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.pdb
+D:\Документи\twa onowa\_SoftUni\Проверки\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.genruntimeconfig.cache

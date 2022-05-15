@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\bin\Debug\netcoreapp3.1\05. Number 100 to 200.exe
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\bin\Debug\netcoreapp3.1\05. Number 100 to 200.deps.json
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\bin\Debug\netcoreapp3.1\05. Number 100 to 200.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\bin\Debug\netcoreapp3.1\05. Number 100 to 200.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\bin\Debug\netcoreapp3.1\05. Number 100 to 200.dll
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\bin\Debug\netcoreapp3.1\05. Number 100 to 200.pdb
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\obj\Debug\netcoreapp3.1\05. Number 100 to 200.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\obj\Debug\netcoreapp3.1\05. Number 100 to 200.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\obj\Debug\netcoreapp3.1\05. Number 100 to 200.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\obj\Debug\netcoreapp3.1\05. Number 100 to 200.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\obj\Debug\netcoreapp3.1\05. Number 100 to 200.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\obj\Debug\netcoreapp3.1\05. Number 100 to 200.dll
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\obj\Debug\netcoreapp3.1\05. Number 100 to 200.pdb
+D:\Документи\twa onowa\_SoftUni\Проверки\05. Number 100 to 200\obj\Debug\netcoreapp3.1\05. Number 100 to 200.genruntimeconfig.cache
