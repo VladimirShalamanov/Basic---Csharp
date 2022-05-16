@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.genruntimeconfig.cache

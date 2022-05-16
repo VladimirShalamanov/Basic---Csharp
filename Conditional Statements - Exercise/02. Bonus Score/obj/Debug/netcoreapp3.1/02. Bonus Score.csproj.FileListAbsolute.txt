@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.genruntimeconfig.cache

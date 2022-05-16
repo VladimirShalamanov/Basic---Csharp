@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.genruntimeconfig.cache
