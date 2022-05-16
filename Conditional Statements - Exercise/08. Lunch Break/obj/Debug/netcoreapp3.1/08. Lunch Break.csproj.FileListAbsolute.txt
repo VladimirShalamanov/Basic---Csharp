@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.genruntimeconfig.cache

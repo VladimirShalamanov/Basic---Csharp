@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - Exercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.genruntimeconfig.cache
