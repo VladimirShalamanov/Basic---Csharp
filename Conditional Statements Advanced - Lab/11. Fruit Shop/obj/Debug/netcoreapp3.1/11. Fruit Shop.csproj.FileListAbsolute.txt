@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache

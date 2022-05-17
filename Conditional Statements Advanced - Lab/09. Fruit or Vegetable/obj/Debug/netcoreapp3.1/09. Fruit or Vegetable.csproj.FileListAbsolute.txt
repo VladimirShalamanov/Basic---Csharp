@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.genruntimeconfig.cache

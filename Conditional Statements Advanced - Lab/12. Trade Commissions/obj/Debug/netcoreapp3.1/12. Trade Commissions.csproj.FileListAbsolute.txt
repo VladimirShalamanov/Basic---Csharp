@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.genruntimeconfig.cache
