@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.genruntimeconfig.cache

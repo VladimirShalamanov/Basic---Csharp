@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.genruntimeconfig.cache

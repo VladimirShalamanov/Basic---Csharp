@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.genruntimeconfig.cache

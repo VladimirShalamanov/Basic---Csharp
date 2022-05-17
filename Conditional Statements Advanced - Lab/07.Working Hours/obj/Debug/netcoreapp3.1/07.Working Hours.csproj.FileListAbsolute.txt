@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.genruntimeconfig.cache
