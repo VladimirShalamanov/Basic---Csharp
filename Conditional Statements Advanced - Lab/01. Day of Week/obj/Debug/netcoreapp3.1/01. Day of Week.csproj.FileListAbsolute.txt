@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.genruntimeconfig.cache
