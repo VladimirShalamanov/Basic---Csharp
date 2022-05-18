@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\netcoreapp3.1\05. Journey.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\netcoreapp3.1\05. Journey.genruntimeconfig.cache

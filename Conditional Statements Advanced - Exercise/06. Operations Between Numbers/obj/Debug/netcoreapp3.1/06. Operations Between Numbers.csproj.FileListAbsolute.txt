@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.genruntimeconfig.cache

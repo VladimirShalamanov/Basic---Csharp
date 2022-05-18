@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.genruntimeconfig.cache
