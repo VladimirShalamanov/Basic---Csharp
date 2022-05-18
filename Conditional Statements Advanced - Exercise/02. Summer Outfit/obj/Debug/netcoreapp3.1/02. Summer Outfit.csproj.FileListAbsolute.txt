@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.genruntimeconfig.cache

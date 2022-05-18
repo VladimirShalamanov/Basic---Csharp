@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.genruntimeconfig.cache

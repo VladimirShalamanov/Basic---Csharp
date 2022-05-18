@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.genruntimeconfig.cache
