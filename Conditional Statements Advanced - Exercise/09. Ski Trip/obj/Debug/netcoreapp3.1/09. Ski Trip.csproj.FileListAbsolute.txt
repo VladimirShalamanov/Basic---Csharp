@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.genruntimeconfig.cache
