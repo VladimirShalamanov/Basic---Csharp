@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\bin\Debug\netcoreapp3.1\08. Fuel Tank.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\bin\Debug\netcoreapp3.1\08. Fuel Tank.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\bin\Debug\netcoreapp3.1\08. Fuel Tank.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\bin\Debug\netcoreapp3.1\08. Fuel Tank.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\bin\Debug\netcoreapp3.1\08. Fuel Tank.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\bin\Debug\netcoreapp3.1\08. Fuel Tank.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\obj\Debug\netcoreapp3.1\08. Fuel Tank.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\obj\Debug\netcoreapp3.1\08. Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\obj\Debug\netcoreapp3.1\08. Fuel Tank.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\obj\Debug\netcoreapp3.1\08. Fuel Tank.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\obj\Debug\netcoreapp3.1\08. Fuel Tank.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\obj\Debug\netcoreapp3.1\08. Fuel Tank.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\obj\Debug\netcoreapp3.1\08. Fuel Tank.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\08. Fuel Tank\obj\Debug\netcoreapp3.1\08. Fuel Tank.genruntimeconfig.cache

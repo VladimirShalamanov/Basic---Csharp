@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.genruntimeconfig.cache
