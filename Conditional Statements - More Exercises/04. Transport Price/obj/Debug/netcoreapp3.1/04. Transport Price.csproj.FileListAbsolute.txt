@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.genruntimeconfig.cache

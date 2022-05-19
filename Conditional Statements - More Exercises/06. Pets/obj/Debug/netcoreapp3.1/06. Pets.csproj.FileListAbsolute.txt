@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.genruntimeconfig.cache

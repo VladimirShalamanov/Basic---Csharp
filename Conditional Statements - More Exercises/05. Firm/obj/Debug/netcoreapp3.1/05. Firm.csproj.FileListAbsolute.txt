@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.genruntimeconfig.cache
