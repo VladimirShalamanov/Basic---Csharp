@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.genruntimeconfig.cache

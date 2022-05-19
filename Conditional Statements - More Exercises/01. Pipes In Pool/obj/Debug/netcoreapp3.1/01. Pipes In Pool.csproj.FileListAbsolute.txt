@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.genruntimeconfig.cache

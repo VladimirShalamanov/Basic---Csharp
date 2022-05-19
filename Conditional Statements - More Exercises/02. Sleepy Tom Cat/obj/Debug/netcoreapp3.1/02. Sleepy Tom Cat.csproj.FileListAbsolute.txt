@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.genruntimeconfig.cache
