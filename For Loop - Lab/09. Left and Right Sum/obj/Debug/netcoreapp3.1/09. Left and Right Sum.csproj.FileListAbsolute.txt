@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.exe
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.deps.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.exe
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.deps.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.genruntimeconfig.cache
