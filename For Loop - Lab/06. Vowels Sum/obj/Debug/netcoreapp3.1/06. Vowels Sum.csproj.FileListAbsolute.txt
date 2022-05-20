@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.exe
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.deps.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.genruntimeconfig.cache
