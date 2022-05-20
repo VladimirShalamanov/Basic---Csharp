@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.exe
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.deps.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.genruntimeconfig.cache
