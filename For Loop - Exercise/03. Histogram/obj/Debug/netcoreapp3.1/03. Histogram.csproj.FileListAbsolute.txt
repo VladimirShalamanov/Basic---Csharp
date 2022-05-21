@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.exe
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.deps.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.genruntimeconfig.cache

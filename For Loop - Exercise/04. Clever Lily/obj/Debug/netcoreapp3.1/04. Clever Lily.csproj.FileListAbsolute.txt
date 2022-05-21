@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.exe
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.deps.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.genruntimeconfig.cache

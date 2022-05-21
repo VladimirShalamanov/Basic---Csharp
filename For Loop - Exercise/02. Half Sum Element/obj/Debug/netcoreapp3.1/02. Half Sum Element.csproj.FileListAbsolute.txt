@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.exe
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.deps.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.dll
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+D:\Документи\twa onowa\_SoftUni\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.genruntimeconfig.cache
