@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.exe
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.deps.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\bin\Debug\netcoreapp3.1\01. Read Text.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\01. Read Text\obj\Debug\netcoreapp3.1\01. Read Text.genruntimeconfig.cache

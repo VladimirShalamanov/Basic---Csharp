@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.exe
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.deps.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\bin\Debug\netcoreapp3.1\03. Sum Numbers.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\03. Sum Numbers\obj\Debug\netcoreapp3.1\03. Sum Numbers.genruntimeconfig.cache

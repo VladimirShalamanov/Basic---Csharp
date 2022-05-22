@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.exe
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.deps.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.genruntimeconfig.cache
