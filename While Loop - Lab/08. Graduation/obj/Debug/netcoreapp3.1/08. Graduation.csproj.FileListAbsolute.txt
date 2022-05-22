@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.exe
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.deps.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.genruntimeconfig.cache

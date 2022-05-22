@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.exe
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.deps.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.genruntimeconfig.cache

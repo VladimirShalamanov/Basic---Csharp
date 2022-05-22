@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.exe
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.deps.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.genruntimeconfig.cache
