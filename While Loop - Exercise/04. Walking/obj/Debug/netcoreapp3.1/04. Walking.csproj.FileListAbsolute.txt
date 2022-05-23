@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.exe
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.deps.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.dll
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.pdb
+D:\Документи\twa onowa\_SoftUni\While Loop - Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.genruntimeconfig.cache
