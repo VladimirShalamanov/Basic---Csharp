@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFSqFHas1k3KC+/fhnSn30L3H3w2i2WGulrVK4mxOrxBav8vNT2rnXuZ1TU+ktGRyNfZ5eMv1Xy2s5xmgyWeUg==",
+  "success": true,
+  "projectFilePath": "D:\\Документи\\twa onowa\\_SOFTUNI\\Basic - C#\\Conditional Statements Advanced - More Exercises\\04. Car To Go\\04. Car To Go.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

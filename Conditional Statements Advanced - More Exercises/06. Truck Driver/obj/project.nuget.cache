@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZv/209g8JswxGJiY/ytJO2gcQkIdaUxypV5oLXg5ZFcPTGKsadQ8X1Dp7ovsbgALf9l0UZrJF1U3824HxktCA==",
+  "success": true,
+  "projectFilePath": "D:\\Документи\\twa onowa\\_SOFTUNI\\Basic - C#\\Conditional Statements Advanced - More Exercises\\06. Truck Driver\\06. Truck Driver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

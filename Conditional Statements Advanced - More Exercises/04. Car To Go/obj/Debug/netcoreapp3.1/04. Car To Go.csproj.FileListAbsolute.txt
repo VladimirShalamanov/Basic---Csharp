@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\netcoreapp3.1\04. Car To Go.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\netcoreapp3.1\04. Car To Go.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WMuLaPP+Be2VxXmUOTXIRrsHtqwZ45EK4m7vvjRidqttk3lr3+Xyi4syWiCFJgk/ObUwvqKwIISM4PllEgxv2g==",
+  "success": true,
+  "projectFilePath": "D:\\Документи\\twa onowa\\_SOFTUNI\\Basic - C#\\Conditional Statements Advanced - More Exercises\\05. Vacation\\05. Vacation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
