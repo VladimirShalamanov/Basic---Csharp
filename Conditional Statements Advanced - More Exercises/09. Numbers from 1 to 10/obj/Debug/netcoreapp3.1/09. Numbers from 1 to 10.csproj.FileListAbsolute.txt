@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\09. Numbers from 1 to 10.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\09. Numbers from 1 to 10.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\09. Numbers from 1 to 10.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\09. Numbers from 1 to 10.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\09. Numbers from 1 to 10.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\09. Numbers from 1 to 10.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\09. Numbers from 1 to 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\09. Numbers from 1 to 10.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\09. Numbers from 1 to 10.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\09. Numbers from 1 to 10.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\09. Numbers from 1 to 10.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\09. Numbers from 1 to 10.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\09. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\09. Numbers from 1 to 10.genruntimeconfig.cache

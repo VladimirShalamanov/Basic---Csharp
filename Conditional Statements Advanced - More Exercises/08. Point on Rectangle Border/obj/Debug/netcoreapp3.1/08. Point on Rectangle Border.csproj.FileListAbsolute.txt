@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.genruntimeconfig.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.csproj.AssemblyReference.cache

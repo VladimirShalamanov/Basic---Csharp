@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.genruntimeconfig.cache
