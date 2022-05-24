@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.genruntimeconfig.cache

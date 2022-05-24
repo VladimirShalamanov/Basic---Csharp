@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.exe
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.deps.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.dll
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.pdb
+D:\Документи\twa onowa\_SoftUni\Conditional Statements Advanced - More Exercises\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.genruntimeconfig.cache
