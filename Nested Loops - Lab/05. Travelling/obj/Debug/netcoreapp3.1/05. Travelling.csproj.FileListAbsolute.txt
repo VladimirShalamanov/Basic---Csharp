@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.exe
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.deps.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp3.1\05. Travelling.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp3.1\05. Travelling.genruntimeconfig.cache
