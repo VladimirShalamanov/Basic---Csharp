@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.exe
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.deps.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\bin\Debug\netcoreapp3.1\01. Number Pyramid.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\01. Number Pyramid\obj\Debug\netcoreapp3.1\01. Number Pyramid.genruntimeconfig.cache

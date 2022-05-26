@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.exe
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.deps.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.genruntimeconfig.cache

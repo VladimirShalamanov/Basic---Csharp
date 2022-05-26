@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.exe
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.deps.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.genruntimeconfig.cache

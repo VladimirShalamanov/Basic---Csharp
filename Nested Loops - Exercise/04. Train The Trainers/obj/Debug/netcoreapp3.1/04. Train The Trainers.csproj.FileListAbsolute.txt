@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.exe
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.deps.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.genruntimeconfig.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.csproj.AssemblyReference.cache
