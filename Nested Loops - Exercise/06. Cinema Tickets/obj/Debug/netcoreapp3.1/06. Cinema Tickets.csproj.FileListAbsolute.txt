@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.exe
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.deps.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+D:\Документи\twa onowa\_SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.genruntimeconfig.cache
