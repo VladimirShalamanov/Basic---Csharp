@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.exe
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.deps.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.genruntimeconfig.cache

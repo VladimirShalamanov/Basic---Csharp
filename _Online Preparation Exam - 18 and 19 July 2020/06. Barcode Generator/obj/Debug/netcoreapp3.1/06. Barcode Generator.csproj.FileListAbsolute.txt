@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.exe
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.deps.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\bin\Debug\netcoreapp3.1\06. Barcode Generator.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\06. Barcode Generator\obj\Debug\netcoreapp3.1\06. Barcode Generator.genruntimeconfig.cache
