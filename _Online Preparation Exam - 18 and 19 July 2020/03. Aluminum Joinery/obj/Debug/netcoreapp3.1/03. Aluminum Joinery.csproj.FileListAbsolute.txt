@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.exe
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.deps.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\netcoreapp3.1\03. Aluminum Joinery.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\netcoreapp3.1\03. Aluminum Joinery.genruntimeconfig.cache
