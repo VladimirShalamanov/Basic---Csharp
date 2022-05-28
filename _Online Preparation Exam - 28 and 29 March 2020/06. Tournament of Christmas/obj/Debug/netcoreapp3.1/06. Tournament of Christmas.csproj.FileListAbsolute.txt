@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.exe
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.deps.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.genruntimeconfig.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.csproj.AssemblyReference.cache
