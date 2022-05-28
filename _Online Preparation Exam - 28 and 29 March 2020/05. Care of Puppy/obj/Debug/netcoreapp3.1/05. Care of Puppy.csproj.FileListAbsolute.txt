@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.exe
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.deps.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\netcoreapp3.1\05. Care of Puppy.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.genruntimeconfig.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\netcoreapp3.1\05. Care of Puppy.csproj.AssemblyReference.cache

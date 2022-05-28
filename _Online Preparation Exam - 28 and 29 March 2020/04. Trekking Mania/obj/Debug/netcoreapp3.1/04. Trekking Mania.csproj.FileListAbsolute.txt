@@ -1,0 +1,13 @@
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.exe
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.deps.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.genruntimeconfig.cache
