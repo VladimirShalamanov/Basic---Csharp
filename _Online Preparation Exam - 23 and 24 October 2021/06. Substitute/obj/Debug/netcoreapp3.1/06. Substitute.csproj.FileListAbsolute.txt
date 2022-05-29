@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\bin\Debug\netcoreapp3.1\06. Substitute.exe
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\bin\Debug\netcoreapp3.1\06. Substitute.deps.json
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\bin\Debug\netcoreapp3.1\06. Substitute.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\bin\Debug\netcoreapp3.1\06. Substitute.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\bin\Debug\netcoreapp3.1\06. Substitute.dll
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\bin\Debug\netcoreapp3.1\06. Substitute.pdb
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\obj\Debug\netcoreapp3.1\06. Substitute.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\obj\Debug\netcoreapp3.1\06. Substitute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\obj\Debug\netcoreapp3.1\06. Substitute.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\obj\Debug\netcoreapp3.1\06. Substitute.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\obj\Debug\netcoreapp3.1\06. Substitute.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\obj\Debug\netcoreapp3.1\06. Substitute.dll
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\obj\Debug\netcoreapp3.1\06. Substitute.pdb
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\06. Substitute\obj\Debug\netcoreapp3.1\06. Substitute.genruntimeconfig.cache
