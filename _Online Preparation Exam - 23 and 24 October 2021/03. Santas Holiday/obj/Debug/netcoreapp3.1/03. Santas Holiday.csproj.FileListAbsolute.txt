@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\bin\Debug\netcoreapp3.1\03. Santas Holiday.exe
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\bin\Debug\netcoreapp3.1\03. Santas Holiday.deps.json
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\bin\Debug\netcoreapp3.1\03. Santas Holiday.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\bin\Debug\netcoreapp3.1\03. Santas Holiday.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\bin\Debug\netcoreapp3.1\03. Santas Holiday.dll
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\bin\Debug\netcoreapp3.1\03. Santas Holiday.pdb
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\obj\Debug\netcoreapp3.1\03. Santas Holiday.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\obj\Debug\netcoreapp3.1\03. Santas Holiday.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\obj\Debug\netcoreapp3.1\03. Santas Holiday.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\obj\Debug\netcoreapp3.1\03. Santas Holiday.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\obj\Debug\netcoreapp3.1\03. Santas Holiday.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\obj\Debug\netcoreapp3.1\03. Santas Holiday.dll
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\obj\Debug\netcoreapp3.1\03. Santas Holiday.pdb
+D:\Документи\twa onowa\_SoftUni\Online Pre - Exam - 23 and 24 October 2021\03. Santas Holiday\obj\Debug\netcoreapp3.1\03. Santas Holiday.genruntimeconfig.cache
