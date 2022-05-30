@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.exe
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.deps.json
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.dll
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.dll
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.genruntimeconfig.cache
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.csproj.AssemblyReference.cache
