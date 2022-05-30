@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.exe
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.deps.json
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.dll
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.dll
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\_Online Exam - 6 and 7 April 2019\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.genruntimeconfig.cache

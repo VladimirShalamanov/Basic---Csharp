@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.exe
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.deps.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.dll
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.pdb
+D:\Документи\twa onowa\_SoftUni\Online Exam - 6 and 7 April 2019\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.genruntimeconfig.cache
