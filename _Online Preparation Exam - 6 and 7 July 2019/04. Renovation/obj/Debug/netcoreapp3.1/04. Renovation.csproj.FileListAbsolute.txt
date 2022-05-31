@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\netcoreapp3.1\04. Renovation.exe
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\netcoreapp3.1\04. Renovation.deps.json
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\netcoreapp3.1\04. Renovation.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\netcoreapp3.1\04. Renovation.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\netcoreapp3.1\04. Renovation.dll
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\bin\Debug\netcoreapp3.1\04. Renovation.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\netcoreapp3.1\04. Renovation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\netcoreapp3.1\04. Renovation.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\netcoreapp3.1\04. Renovation.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\netcoreapp3.1\04. Renovation.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\netcoreapp3.1\04. Renovation.dll
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\netcoreapp3.1\04. Renovation.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\netcoreapp3.1\04. Renovation.genruntimeconfig.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\04. Renovation\obj\Debug\netcoreapp3.1\04. Renovation.csproj.AssemblyReference.cache
