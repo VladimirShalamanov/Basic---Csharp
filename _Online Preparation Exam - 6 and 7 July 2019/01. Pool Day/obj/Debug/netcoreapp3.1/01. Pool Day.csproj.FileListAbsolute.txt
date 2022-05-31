@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.exe
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.deps.json
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.dll
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.dll
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\Online Exam - 6 and 7 July 2019\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.genruntimeconfig.cache
