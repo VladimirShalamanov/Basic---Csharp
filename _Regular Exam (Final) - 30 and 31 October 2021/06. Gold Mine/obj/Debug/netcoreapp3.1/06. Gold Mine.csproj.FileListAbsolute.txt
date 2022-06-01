@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.exe
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.deps.json
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.dll
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.dll
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.genruntimeconfig.cache
