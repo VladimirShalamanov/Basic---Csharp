@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.exe
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.deps.json
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.runtimeconfig.json
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.dll
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.AssemblyInfo.cs
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.dll
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.pdb
+D:\Документи\twa onowa\_SoftUni_Basic\Regular Exam - 30 and 31 October 2021\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.genruntimeconfig.cache
